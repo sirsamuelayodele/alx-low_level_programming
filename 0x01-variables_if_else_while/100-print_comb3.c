@@ -2,6 +2,7 @@
 /**
  * main - main function
  * code for printing all possible combination of two digis in ascending order
+ * Return: 0 success
  */
 int main(void)
 {
