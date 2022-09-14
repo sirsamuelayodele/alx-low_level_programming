@@ -5,7 +5,6 @@
  * Description: this program is to print the alphabet
  * Return: 0
  */
-
 void print_alphabet(void)
 {
 	char c = 'a';
