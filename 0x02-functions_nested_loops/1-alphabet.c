@@ -2,6 +2,7 @@
 
 /**
  * main - print_alphabet
+ * Description: this program is to print the alphabet
  * Return: 0
  */
 
