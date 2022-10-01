@@ -1,2 +1,1 @@
-This project is about Static Libraries
-Ayodele Samuel -Abuja Nigeria
+My goal was to be the best hacker
