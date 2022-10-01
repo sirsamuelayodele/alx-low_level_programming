@@ -1,13 +1,6 @@
 #ifndef MAIN_H
 #define MAIN_H
 
-/*
- *  * file: main.h
- *   * Auth: Ayodele Samuel
- *    *Desc: Header file containing the prototypes of all functions
- *     * Included in the ststic library
- *     */
-
 int _putchar(char c);
 int _islower(int c);
 int _isalpha(int c);
